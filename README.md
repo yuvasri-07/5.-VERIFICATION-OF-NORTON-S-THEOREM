@@ -30,15 +30,21 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **To measure RTh or RN**
 
 
-
 **To measure IN or Isc**
 
- 
-**Thevenin’s equivalent circuit**
-
+ <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/87d035c8-fd44-4892-a734-13ec3f322ce3" />
 
 **Norton’s equivalent circuit**
 
+**CALCULATION:**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/5d93d01e-d4af-40f4-af5b-9dc81e471c98" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eec9966e-0ade-42c0-a41c-21b07876e25f" />
+
+**MARK SPLIT-UP:**
+
+<img width="728" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c0bbd94-b1d9-4541-b411-eeb86ba11f04" />
 
 **PROCEDURE:**
 
