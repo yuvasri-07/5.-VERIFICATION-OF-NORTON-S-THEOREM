@@ -24,18 +24,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
-
-**Norton’s equivalent circuit**
-
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/56a4ab14-4a28-4a7c-b5d2-8650824d362b" />
 
 **CALCULATION:**
@@ -43,10 +31,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f90b8c5d-a538-4be2-b75f-538d7b326ee7" />
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad54afb5-c313-4f67-b95e-1674c5d0ed82" />
-
-**MARK SPLIT-UP:**
-
-<img width="728" height="1280" alt="image" src="https://github.com/user-attachments/assets/9290f549-6d80-462e-b533-2b3f6bf60177" />
 
 **PROCEDURE:**
 
@@ -78,36 +62,10 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**MARK SPLIT-UP:**
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
-
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
-
+<img width="728" height="1280" alt="image" src="https://github.com/user-attachments/assets/9290f549-6d80-462e-b533-2b3f6bf60177" />
 
 **RESULT:**
 
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+Thus Norton’s theorem is verified practically and theoretically.
